@@ -60,3 +60,16 @@ This revolutionary platform represents the convergence of multiple epistemic dom
 The resulting intellectual synthesis transcends the limitations inherent in single-discipline approaches, establishing a new paradigm in computational biology that algorithmically transforms scientific literature into novel protein recipes with unprecedented efficiency and precision.
 
 *"The true innovation lies not merely in processing biomedical text, but in translating the collective scientific intelligence embedded within millions of research papers into actionable protein synthesis protocols that even nature hasn't yet discovered."* - Dr. Nik Bear Brown
+
+
+### Job listing
+
+- AI Pipeline Integration Intern
+Responsibilities: Assist in integrating diverse AI agents and data pipelines, optimize workflow interoperability, and contribute to system scalability.
+Qualifications: Experience with multi-agent systems, workflow orchestration tools.
+
+- UX/UI Design Intern
+Responsibilities: Design and prototype intuitive user interfaces for our platform, focusing on accessibility and seamless user experience for both scientific and non-technical users.
+Qualifications: Proficiency in design tools, understanding of both front-end and back-end development principles, and interest in biotech innovation. Familiarity with biology data is a plus.
+
+
